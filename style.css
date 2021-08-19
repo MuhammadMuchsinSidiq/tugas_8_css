@@ -1,0 +1,32 @@
+body {
+  background-image:url(../BAHAN/Stupa_Borobudur.jpg);
+  background-size: cover;
+  background-repeat: no-repeat;
+
+}
+
+.satu {
+  width: 700px;
+  height: 350px;
+  background-image: url(../BAHAN/avocado.jpg);
+  background-repeat: repeat-y;
+  background-color: white;
+  background-position: left;
+  border: 2px solid black;
+  overflow: scroll;
+}
+
+.dua {
+  color: blue;
+  font-weight: bold;
+}
+
+.tiga {
+  color : green;
+  font-weight: bold;
+}
+
+.empat {
+  color : red;
+  font-weight: bold;
+}
